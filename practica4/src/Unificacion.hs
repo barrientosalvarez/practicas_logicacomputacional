@@ -1,13 +1,7 @@
 {-
 Práctica 4: unificación.
 
-Integrantes del equipo:
-
-Almanza Torres José Luis | jose-luis@ciencias.unam.mx
-
 Barrientos Alvarez Jorge Miguel Aaron | jma.barrientos@ciencias.unam.mx
-
-Velázquez Caballero Ixchel | ix.ve.ca@ciencias.unam.mx
 -}
 
 
